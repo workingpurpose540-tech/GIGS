@@ -7,6 +7,7 @@
 
 The Problem & Solution
 The Problem: Over 30% of household groceries end up wasted because static recipe sites demand specific shopping lists instead of accommodating ingredients already sitting on shelves.
+
 The Solution: PlateWise-AI reverses the cooking workflow. Users upload a single photo of their fridge or pantry, and our multimodal AI detects ingredients, applies dietary constraints, and crafts dynamic, zero-waste recipes with real-time macro breakdowns.
 
  Key Features
