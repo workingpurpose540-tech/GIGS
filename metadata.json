@@ -1,0 +1,6 @@
+{
+  "name": "PlateWise-AI",
+  "description": "Smart culinary tool using Gemini Vision AI to turn photos of raw ingredients into step-by-step recipes in plain English.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
