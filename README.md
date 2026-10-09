@@ -1,9 +1,9 @@
 # 🍳 PlateWise-AI
 > Turn fridge leftovers into chef-crafted, zero-waste recipes using multimodal vision and generative AI.
 
-[Live Netlify Application] https://platewise1-ai.netlify.app/
-[Demo Video Walkthrough] https://app.guidde.com/share/playbooks/8CftSWkXW9pABZhGRZjeM5?origin=aUG9FnJz3JfYaE1ASNs4rvJrVzO2  
-[GitHub Source Repository](
+[Live Netlify Application]( https://platewise1-ai.netlify.app/)
+[Demo Video Walkthrough]( https://app.guidde.com/share/playbooks/8CftSWkXW9pABZhGRZjeM5?origin=aUG9FnJz3JfYaE1ASNs4rvJrVzO2)  
+[GitHub Source Repository](https://github.com/workingpurpose540-tech/GIGS)
 
 The Problem & Solution
 The Problem: Over 30% of household groceries end up wasted because static recipe sites demand specific shopping lists instead of accommodating ingredients already sitting on shelves.
